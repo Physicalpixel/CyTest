@@ -1,0 +1,18 @@
+#cy {
+  height: 50%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #faedef;
+}
+
+#cy1 {
+  height: 50%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  background-color: #edf1fa;
+  border-top: 1px solid #ccc;
+}
